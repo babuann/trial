@@ -1,0 +1,1 @@
+Deploying rag using aws,lambda,huggingFace ,Langchain,ECR,docker
